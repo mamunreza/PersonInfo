@@ -1,0 +1,15 @@
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\bin\Debug\net6.0\PersonInfo.Validation.deps.json
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\bin\Debug\net6.0\PersonInfo.Validation.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\bin\Debug\net6.0\PersonInfo.Validation.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\bin\Debug\net6.0\PersonInfo.Contract.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\bin\Debug\net6.0\PersonInfo.Contract.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\PersonInfo.Validation.csproj.AssemblyReference.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\PersonInfo.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\PersonInfo.Validation.AssemblyInfoInputs.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\PersonInfo.Validation.AssemblyInfo.cs
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\PersonInfo.Validation.csproj.CoreCompileInputs.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\PersonInfo.Validation.csproj.CopyComplete
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\PersonInfo.Validation.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\refint\PersonInfo.Validation.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\PersonInfo.Validation.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Validation\obj\Debug\net6.0\ref\PersonInfo.Validation.dll

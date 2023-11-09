@@ -1,0 +1,17 @@
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\bin\Debug\net6.0\PersonInfo.Service.deps.json
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\bin\Debug\net6.0\PersonInfo.Service.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\bin\Debug\net6.0\PersonInfo.Service.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\bin\Debug\net6.0\PersonInfo.Contract.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\bin\Debug\net6.0\PersonInfo.Data.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\bin\Debug\net6.0\PersonInfo.Contract.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\bin\Debug\net6.0\PersonInfo.Data.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\PersonInfo.Service.csproj.AssemblyReference.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\PersonInfo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\PersonInfo.Service.AssemblyInfoInputs.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\PersonInfo.Service.AssemblyInfo.cs
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\PersonInfo.Service.csproj.CoreCompileInputs.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\PersonInfo.Service.csproj.CopyComplete
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\PersonInfo.Service.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\refint\PersonInfo.Service.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\PersonInfo.Service.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Service\obj\Debug\net6.0\ref\PersonInfo.Service.dll

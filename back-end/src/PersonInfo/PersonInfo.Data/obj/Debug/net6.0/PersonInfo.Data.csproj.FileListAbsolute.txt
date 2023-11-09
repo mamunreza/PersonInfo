@@ -1,0 +1,14 @@
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\bin\Debug\net6.0\PersonInfo.Data.deps.json
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\bin\Debug\net6.0\PersonInfo.Data.runtimeconfig.json
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\bin\Debug\net6.0\PersonInfo.Data.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\bin\Debug\net6.0\PersonInfo.Data.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\PersonInfo.Data.csproj.AssemblyReference.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\PersonInfo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\PersonInfo.Data.AssemblyInfoInputs.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\PersonInfo.Data.AssemblyInfo.cs
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\PersonInfo.Data.csproj.CoreCompileInputs.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\PersonInfo.Data.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\refint\PersonInfo.Data.dll
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\PersonInfo.Data.pdb
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\PersonInfo.Data.genruntimeconfig.cache
+C:\Personal\EE\Professional\IV\EE\2023\Helmes\Assignment\Final\back-end\src\PersonInfo\PersonInfo.Data\obj\Debug\net6.0\ref\PersonInfo.Data.dll

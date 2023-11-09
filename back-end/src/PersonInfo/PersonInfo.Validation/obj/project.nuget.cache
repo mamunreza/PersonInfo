@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Oj4qzDcif9n9a3HALZu1uXSqr9xutIMF6VM6BhwPVZArrrXJiNviBEc7vIK6XAhW0P+syQRU0Tf5aYxvjBCFw==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\PersonInfo.Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muhammad.reza\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.geniussports.net/NugetWebFeed/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

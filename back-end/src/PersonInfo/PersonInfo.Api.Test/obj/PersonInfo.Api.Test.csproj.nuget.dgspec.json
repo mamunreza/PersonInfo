@@ -1,0 +1,433 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api.Test\\PersonInfo.Api.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api.Test\\PersonInfo.Api.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api.Test\\PersonInfo.Api.Test.csproj",
+        "projectName": "PersonInfo.Api.Test",
+        "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api.Test\\PersonInfo.Api.Test.csproj",
+        "packagesPath": "C:\\Users\\muhammad.reza\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammad.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.geniussports.net/NugetWebFeed/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api\\PersonInfo.Api.csproj": {
+                "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api\\PersonInfo.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api\\PersonInfo.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api\\PersonInfo.Api.csproj",
+        "projectName": "PersonInfo.Api",
+        "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api\\PersonInfo.Api.csproj",
+        "packagesPath": "C:\\Users\\muhammad.reza\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammad.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.geniussports.net/NugetWebFeed/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj": {
+                "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj"
+              },
+              "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Data\\PersonInfo.Data.csproj": {
+                "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Data\\PersonInfo.Data.csproj"
+              },
+              "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Service\\PersonInfo.Service.csproj": {
+                "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Service\\PersonInfo.Service.csproj"
+              },
+              "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\PersonInfo.Validation.csproj": {
+                "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\PersonInfo.Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj",
+        "projectName": "PersonInfo.Contract",
+        "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj",
+        "packagesPath": "C:\\Users\\muhammad.reza\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammad.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.geniussports.net/NugetWebFeed/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Data\\PersonInfo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Data\\PersonInfo.Data.csproj",
+        "projectName": "PersonInfo.Data",
+        "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Data\\PersonInfo.Data.csproj",
+        "packagesPath": "C:\\Users\\muhammad.reza\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammad.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.geniussports.net/NugetWebFeed/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Service\\PersonInfo.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Service\\PersonInfo.Service.csproj",
+        "projectName": "PersonInfo.Service",
+        "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Service\\PersonInfo.Service.csproj",
+        "packagesPath": "C:\\Users\\muhammad.reza\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammad.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.geniussports.net/NugetWebFeed/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj": {
+                "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj"
+              },
+              "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Data\\PersonInfo.Data.csproj": {
+                "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Data\\PersonInfo.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\PersonInfo.Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\PersonInfo.Validation.csproj",
+        "projectName": "PersonInfo.Validation",
+        "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\PersonInfo.Validation.csproj",
+        "packagesPath": "C:\\Users\\muhammad.reza\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammad.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.geniussports.net/NugetWebFeed/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj": {
+                "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

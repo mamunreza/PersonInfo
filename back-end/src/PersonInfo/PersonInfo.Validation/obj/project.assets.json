@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FluentValidation/11.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "PersonInfo.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PersonInfo.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonInfo.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/11.8.0": {
+      "sha512": "TiEaaYqSIAS+wXQv46LRm8Mca092XYNePD0n231Hqlkmm5FuToZoWnjI1ef/vJUxBzqR7/k2vaVQXxijNgVKRQ==",
+      "type": "package",
+      "path": "fluentvalidation/11.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.8.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "PersonInfo.Contract/1.0.0": {
+      "type": "project",
+      "path": "../PersonInfo.Contract/PersonInfo.Contract.csproj",
+      "msbuildProject": "../PersonInfo.Contract/PersonInfo.Contract.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FluentValidation >= 11.8.0",
+      "PersonInfo.Contract >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\muhammad.reza\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\PersonInfo.Validation.csproj",
+      "projectName": "PersonInfo.Validation",
+      "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\PersonInfo.Validation.csproj",
+      "packagesPath": "C:\\Users\\muhammad.reza\\.nuget\\packages\\",
+      "outputPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Validation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\muhammad.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "http://nuget.geniussports.net/NugetWebFeed/nuget/": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj": {
+              "projectPath": "C:\\Personal\\EE\\Professional\\IV\\EE\\2023\\Helmes\\Assignment\\Final\\back-end\\src\\PersonInfo\\PersonInfo.Contract\\PersonInfo.Contract.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.8.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.geniussports.net/NugetWebFeed/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
